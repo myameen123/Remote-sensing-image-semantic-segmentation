@@ -20,3 +20,11 @@ This project has been used in the Sparse Representation and Intelligent Analysis
 - pyjson
 - Pillow 6.0
 - scikit-learn
+
+## Results
+
+Since the original remote sensing image is too large, a partial screenshot of the test results is given here.
+
+![](https://github.com/myameen123/Remote-sensing-image-semantic-segmentation/blob/main/dataset/screenshot1.png)
+
+![](https://github.com/myameen123/Remote-sensing-image-semantic-segmentation/blob/main/dataset/screenshot2.png)
